@@ -8,13 +8,13 @@ Biological Inspired Design
 - TF linked YAML file to bootstrap to make nice page at:  
   - [BID Website by TF](http://openmaterials.github.io/Biological-Inspired-Design/)  
 
-Team Members
+Team Members |
 --- |
-Jeanette Yen
-James Blumling
-Abhishek Thumaty
-Noah Posner
-Tony Smart
-Kan Wang
-Changsheng Wu
-Tyrone Marshall
+Jeanette Yen |
+James Blumling |
+Abhishek Thumaty |
+Noah Posner |
+Tony Smart |
+Kan Wang |
+Changsheng Wu |
+Tyrone Marshall |
